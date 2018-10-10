@@ -50,9 +50,9 @@
             </dataSource>
         </environment>
     </environments>
-    <mappers>
-        <mapper resource="./mapper/employee/EmployeeMapper.xml"/>
-    </mappers>
+    <!--<mappers>-->
+        <!--<mapper resource="./mapper/EmployeeMapper.xml"/>-->
+    <!--</mappers>-->
 
 
 </configuration>
